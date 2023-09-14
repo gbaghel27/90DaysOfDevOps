@@ -1,0 +1,18 @@
+Q.1 What is DevOps?
+
+Sol : DevOps is a combination of software development (dev) and operations (ops). 
+It is defined as a software engineering methodology which aims to integrate the work of development teams 
+and operations teams by facilitating a culture of collaboration and shared responsibility.
+
+Q.2 What is Automation, Scaling, Infrastructure?
+
+Sol.
+Automation : DevOps automation is the addition of technology that performs tasks with reduced human assistance to processes that facilitate feedback loops between operations and development teams so that iterative updates can be deployed faster to applications in production.
+
+Scaling : A scalable DevOps means the system can expand automatically during a high workload and shrink back when the needs are reduced to normal. A successfully scaled DevOps promotes mutual collaboration among teams, reduced bottlenecks in deliveries, faster feedback cycles, and resilient product updates.
+
+Infrastructure : DevOps infrastructure or Infrastructure Automation under DevOps refers to a concept that revolves around the idea of managing infrastructure with the help of code. This is done with the help of certain tools or programs which can help to carry out the tasks automatically!
+
+Q.3 Why DevOps is Important?
+
+Sol. DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
